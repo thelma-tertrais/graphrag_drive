@@ -26,6 +26,17 @@
   </a>
 </p>
 
+
+#### GraphRAG contributions
+
+Demo (sign in with demo/ demo): https://drive.ahb-demo.fr/explorer/items/my-files
+
+Research explanations: https://claude.ai/artifact/93iX5eXGFijfVaUXLFn8CF
+
+Anagram visual: https://claude.ai/artifact/A7iCTrmyfqgbvurEptf8Vq
+
+
+
 # La Suite Drive: Collaborative File Sharing
 
 **LaSuite Drive, where your files become collaborative assets through seamless teamwork.**
@@ -174,13 +185,6 @@ Once the backend and its dependencies are running, start testing using playwrigh
 ```bash
 $ make run-tests-e2e
 ```
-
-#### GraphRAG contributions
-
-https://drive.ahb-demo.fr/explorer/items/my-files
-https://claude.ai/artifact/93iX5eXGFijfVaUXLFn8CF
-https://claude.ai/artifact/A7iCTrmyfqgbvurEptf8Vq
-
 
 
 #### Frontend development mode
